@@ -1,1 +1,1 @@
-# awesome-rsi
+# Awesome-RSI
